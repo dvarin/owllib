@@ -1,5 +1,5 @@
 from rdflib import Graph, RDF, RDFS, OWL, BNode, URIRef
-import urllib.request as url
+
 
 from owllib.entities import *
 
